@@ -166,7 +166,7 @@ const Home = () => {
                         <div className="relative mt-8 lg:mt-0">
                             <div className="bg-white rounded-3xl p-4 shadow-xl">
                                 <img 
-                                    src="/images/springbok.png?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                                    src="/images/springbok.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
                                     alt="GPLA Campus" 
                                     className="rounded-2xl shadow-lg w-full"
                                 />
